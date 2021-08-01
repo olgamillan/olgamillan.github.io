@@ -1,0 +1,124 @@
+ [
+        {
+            "id":"1",
+            "titulo": "Avocado Crostini",
+            "foto":  "https://image.freepik.com/foto-gratis/autentica-pasta-italiana_24972-890.jpg",
+            "descripcion": "Fabada asturiana a mi manera",
+            "categoria": "Carne",
+            "duracion": "45min",
+            "dificultad": "Fácil",
+            "serves":6,
+            "rating":5,
+            "isFavorite":true,
+            "preparacion":[" Con 2 huevos, sal, molinillo 4 pimientas y molinillo de hierbas provenzales al gusto",
+                           "todo bien batido. Echar en crudo,una patata mediana a cubitos",
+                          " echar una cucharadita de pan rallado antes de cerrarlos sujetándola con 2 palillos",
+                          "sí no se sale el relleno al hornear."],
+            "ingredientes": [
+              "500 g fabes",
+              "1/2 aguacate maduro",
+              "2 trozos panceta",
+              "2 chorizos",
+              "1 morcilla",
+              "Unas hebras de azafrán",
+              "Sal especiada para guisos o normal"]
+        },
+        {
+            
+            "id":"2",
+            "titulo": "Pasta con salsa Boniato",
+            "foto": "https://image.freepik.com/foto-gratis/autentica-pasta-italiana_24972-890.jpg",
+            "descripcion": "Pasta dulce y sana.",
+            "categoria": "Pasta",
+            "duracion": "35min",
+            "dificultad": "Medium",
+            "serves":5,
+            "rating":5,
+            "isFavorite":false,
+            "preparacion":["1-Lo primero que vamos a hacer es abrir la lata de leche condensada vegana y meterla en la nevera. La recuperaremos más tarde.",
+              "2- Empezaremos picando las galletas hasta conseguir que sean un grano muy fino. Yo piqué primero 10 galletas y después las otras diez, porque mi recipiente no es muy grande y quería que se mezclaran bien los ingredinentes, por eso veréis en las fotos la mitad de los ingredientes.",
+              "3-Cunado tengamos ya las 20 galletas trituradas, unos 600 gramos, añadimos 2/3 de taza de margarina derretida o aceite de coco en estado líquido."],
+           
+           "ingredientes": [
+              "500 g fabes",
+              "1/2 aguacate maduro",
+              "2 trozos panceta",
+              "2 chorizos",
+              "1 morcilla",
+              "Unas hebras de azafrán",
+              "Sal especiada para guisos o normal"]
+        },
+        {
+            "id":"3",
+            "titulo": "Corquetas de Garbanzos",
+            "foto": "https://img.grouponcdn.com/deal/2poSSXtnsXAGMbADr5uzWP8JpGRL/2p-1000x600/v1/c700x420.jpg",
+            "descripcion": "Deliciosas croquetas con  proteína vegetal.",
+            "categoria": "Croquetas",
+            "duracion": "15min",
+            "dificultad": "Fácil",
+            "serves":6,
+            "rating":5,
+            "isFavorite":false,
+            "preparacion":["1-Lo primero que vamos a hacer es abrir la lata de leche condensada vegana y meterla en la nevera. La recuperaremos más tarde. ","2- Empezaremos picando las galletas hasta conseguir que sean un grano muy fino. Yo piqué primero 10 galletas y después las otras diez, porque mi recipiente no es muy grande y quería que se mezclaran bien los ingredinentes, por eso veréis en las fotos la mitad de los ingredientes."," 3-Cunado tengamos ya las 20 galletas trituradas, unos 600 gramos, añadimos 2/3 de taza de margarina derretida o aceite de coco en estado líquido."],
+            "ingredientes": [
+              "500 g fabes",
+              "1/2 aguacate maduro",
+              "2 trozos panceta",
+              "2 chorizos",
+              "1 morcilla",
+              "Unas hebras de azafrán",
+              "Sal especiada para guisos o normal"]
+        },
+        {
+            "id":"4",
+            "titulo": "Pancakes de calabaza.",
+            "foto": "https://s1.eestatic.com/2017/08/19/cocinillas/Cocinillas_240240267_116374174_1024x576.jpg",
+            "descripcion": "Unas tortitas veganas para un desayuno saludable ",
+            "categoria": "Postres",
+            "duracion": "10min",
+            "dificultad": "Fácil",
+            "serves":2,
+            "rating":5,
+            "isFavorite":false,
+            "preparacion":[
+              "1-Lo primero que vamos a hacer es abrir la lata de leche condensada vegana y meterla en la nevera. La recuperaremos más tarde.", " 2- Empezaremos picando las galletas hasta conseguir que sean un grano muy fino. Yo piqué primero 10 galletas y después las otras diez, porque mi recipiente no es muy grande y quería que se mezclaran bien los ingredinentes, por eso veréis en las fotos la mitad de los ingredientes."," 3-Cunado tengamos ya las 20 galletas trituradas, unos 600 gramos, añadimos 2/3 de taza de margarina derretida o aceite de coco en estado líquido."],
+            "ingredientes": [
+              "500 g fabes",
+              "1/2 aguacate maduro",
+              "2 trozos panceta",
+              "2 chorizos",
+              "1 morcilla",
+              "Unas hebras de azafrán",
+              "Sal especiada para guisos o normal"
+            ]
+        },
+        {
+            "id":"5",
+            "titulo": "Crispy de tofu.",
+            "foto": "https://i.dietdoctor.com/es/wp-content/uploads/2019/08/tofu_marinado_crocante_h.jpg?auto=compress%2Cformat&w=1600&h=1067&fit=crop",
+            "descripcion": "Hoy vengo con una receta que fue fruto de la improvisación, pero que llevaba años queriendo probar… ¡Porque no he parado de verla por redes sociales! Os traigo el paso a paso para preparar Crispy Tofu con noodles en salsa casera. Os traigo mi propia versión de estos filetes de tofu rebozados, que como veis tiene un aspecto espectacular y crujiente. Pues ya veréis cuando probéis este sabor espectacular… ¡Porque es brutal!",
+            "categoria": "Postres",
+            "duracion": "10min",
+            "dificultad": "Fácil",
+            "serves":4,
+            "rating":5,
+            "isFavorite":false,
+            "preparacion":["1-Lo primero que vamos a hacer es abrir la lata de leche condensada vegana y meterla en la nevera. La recuperaremos más tarde."," 2- Empezaremos picando las galletas hasta conseguir que sean un grano muy fino. Yo piqué primero 10 galletas y después las otras diez, porque mi recipiente no es muy grande y quería que se mezclaran bien los ingredinentes, por eso veréis en las fotos la mitad de los ingredientes."," 3-Cunado tengamos ya las 20 galletas trituradas, unos 600 gramos, añadimos 2/3 de taza de margarina derretida o aceite de coco en estado líquido."],
+            "ingredientes": [
+              "500 g fabes",
+              "1/2 aguacate maduro",
+              "2 trozos panceta",
+              "2 chorizos",
+              "1 morcilla",
+              "Unas hebras de azafrán",
+              "Sal especiada para guisos o normal"
+            ]
+        }
+        
+ ]
+    
+    
+
+
+
+
